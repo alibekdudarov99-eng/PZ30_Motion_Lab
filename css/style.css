@@ -106,7 +106,7 @@ button {
 }
 /* CSS-классы уже подготовлены: JavaScript будет их добавлять и убирать. */
 .rocket.is-moved {
-  transform: translateX(330px);
+  transform: translateX(590px);
 }
 .rocket.is-colored {
   background-color: var(--mint);
